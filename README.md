@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <b>Here's what I've picked up along the way:</b>
+  <b>Here are some of the things I've picked up along the way:</b>
 </p>
 
 
