@@ -2,7 +2,7 @@
 
 
 
-![Diyala](.png)
+![Diyala](1.png)
 
 <p align="center">
   I like learning a lot. Not just one thing, not just one path. If something catches my attention, I dive straight into it.
