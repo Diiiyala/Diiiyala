@@ -33,18 +33,24 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-- Web Develompent:
+- Web Development:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-- Game Development & 3D modeling:
+- Command Line:
+<p align="center">
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnumetaterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+- Cybersecurity:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 - Tools & Platforms:
@@ -57,25 +63,25 @@
   <img src="https://img.shields.io/badge/VS%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
+- Operating Systems:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
 - Databases:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-- Cybersecurity:
+- Game Development & 3D modeling:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
-- Operaring Systems:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
