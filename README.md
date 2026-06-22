@@ -86,6 +86,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnumetaterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 - Game Development & 3D Modeling:
