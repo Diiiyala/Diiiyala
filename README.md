@@ -58,10 +58,18 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
+- Systems & Administration:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Group%20Policy-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
 - Databases:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 - Tools & Platforms:
